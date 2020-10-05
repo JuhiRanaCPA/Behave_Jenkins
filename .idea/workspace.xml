@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b7364c6-2ba8-4311-8ccb-3192be063b41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../mypython\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="db2d3dde-0469-47c1-abb1-93e3c88f8ee4" />
+  <component name="ProjectId" id="1hGGuQjGItBEM0JnDjGQtdfGHM0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Behave.SampleTest.feature">
+    <configuration name="SampleTest2.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="mypython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/Features/SampleTest2.feature" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SampleTest2.feature:" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="mypython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/Features/SampleTest2.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SampleTest.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="mypython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/Features/SampleTest.feature" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SampleTest.feature:Feature 1 sample test Tc1 -Sample Google search testcase" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="mypython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/Features/SampleTest.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="Feature 1 sample test Tc1 -Sample Google search testcase" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReadExcel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mypython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Base/ReadExcel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Behave.SampleTest.feature" />
+        <item itemvalue="Behave.SampleTest.feature:Feature 1 sample test Tc1 -Sample Google search testcase" />
+        <item itemvalue="Python.ReadExcel" />
+        <item itemvalue="Behave.SampleTest2.feature" />
+        <item itemvalue="Behave.SampleTest2.feature:" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b7364c6-2ba8-4311-8ccb-3192be063b41" name="Default Changelist" comment="" />
+      <created>1599630237417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599630237417</updated>
+      <workItem from="1599630240064" duration="21076000" />
+      <workItem from="1600062762550" duration="12515000" />
+      <workItem from="1600092772036" duration="4145000" />
+      <workItem from="1600765205980" duration="1509000" />
+      <workItem from="1601704357918" duration="1704000" />
+      <workItem from="1601878017323" duration="3619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="639" height="466" key="DebuggerActiveHint" timestamp="1601879294840">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="639" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1601879294840" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601711554681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601711554681" />
+    <state width="1323" height="278" key="GridCell.Tab.0.bottom" timestamp="1601879753527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="278" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601879753527" />
+    <state width="1493" height="199" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601711799301" />
+    <state width="1323" height="278" key="GridCell.Tab.0.center" timestamp="1601879753527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="278" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601879753527" />
+    <state width="1493" height="199" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601711799301" />
+    <state width="1323" height="278" key="GridCell.Tab.0.left" timestamp="1601879753527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="278" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601879753527" />
+    <state width="1493" height="199" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601711799301" />
+    <state width="1323" height="278" key="GridCell.Tab.0.right" timestamp="1601879753527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="278" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601879753527" />
+    <state width="1493" height="199" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601711799301" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1601879374732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601879374732" />
+    <state width="1493" height="315" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600102249058" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1601879374732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1601879374732" />
+    <state width="1493" height="315" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600102249058" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1601879374731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1601879374731" />
+    <state width="1493" height="315" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600102249057" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1601879374732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1601879374732" />
+    <state width="1493" height="315" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600102249058" />
+    <state x="246" y="18" key="SettingsEditor" timestamp="1601881717954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="246" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601881717954" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600095404530" />
+    <state x="322" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599643953297">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="322" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1599643953297" />
+    <state x="594" y="237" key="export.test.results" timestamp="1600091061969">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="594" y="237" key="export.test.results/0.0.1536.824@0.0.1536.824" timestamp="1600091061969" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Features/Steps/StepDefinition.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Features/Steps/StepDefinition.py</url>
+          <line>133</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Features/Steps/StepDefinition.py</url>
+          <line>130</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Features/Steps/StepDefinition.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Features/Steps/StepDefinition.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Features/Steps/StepDefinition.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Features/Steps/StepDefinition.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Base/ReadExcel.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Features/Steps/StepDefinition.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PyBehaveRunConfigurationType">
+        <watch expression="ConfigReader.read_configData('Details', 'Browser')" />
+        <watch expression="ConfigReader.read_configData('Details', 'Application_Url')" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mypython$SampleTest_feature_Feature_1_sample_test_Tc1__Sample_Google_search_testcase.coverage" NAME="SampleTest.feature:Feature 1 sample test Tc1 -Sample Google search testcase Coverage Results" MODIFIED="1601879675148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/mypython$SampleTest_feature.coverage" NAME="SampleTest.feature Coverage Results" MODIFIED="1601879697690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/mypython$SampleTest_feature_Tc1__Sample_Google_search_testcase.coverage" NAME="SampleTest.feature:Tc1 -Sample Google search testcase Coverage Results" MODIFIED="1599634516151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/mypython$SampleTest2_feature_Feature_2_sample_test_TC2__Validate_change_password_functionality.coverage" NAME="SampleTest2.feature:Feature 2 sample test TC2- Validate change password functionality Coverage Results" MODIFIED="1599644130559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/mypython$SampleTest2_feature_Feature_2_Validate_login_functionality.coverage" NAME="SampleTest2.feature:Feature 2 Validate login functionality Coverage Results" MODIFIED="1600090627316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/mypython$ReadExcel.coverage" NAME="ReadExcel Coverage Results" MODIFIED="1600095246088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
+    <SUITE FILE_PATH="coverage/mypython$ConfigReader.coverage" NAME="ConfigReader Coverage Results" MODIFIED="1599637180932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Library" />
+    <SUITE FILE_PATH="coverage/mypython$SampleTest2_feature.coverage" NAME="SampleTest2.feature Coverage Results" MODIFIED="1600091014234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/mypython$SampleTest2_feature_.coverage" NAME="SampleTest2.feature: Coverage Results" MODIFIED="1600090724575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
